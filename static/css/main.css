@@ -1,0 +1,22 @@
+body {
+    margin-left: 40%;
+    font-family: sans-serif;
+}
+
+table, th, td{
+border: 1px solid black;
+border-collapse:  collapse;
+width: 500px;
+}
+
+.form{
+width: 500px;
+}
+
+input{
+margin-top: 15px;
+}
+
+#content{
+width: 413px;
+}
